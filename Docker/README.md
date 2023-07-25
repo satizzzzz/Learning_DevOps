@@ -1,7 +1,9 @@
+# Docker Tips, Tricks and Details
+
 This directory is for docker tips
 
-Basic Commands
-  
+## Basic Commands
+```
   docker -h - Lists all the commands
   
   docker build -t <dockerhubrepo>/<dockerimagename>:<version> .
@@ -9,7 +11,7 @@ Basic Commands
   docker login -u <username> - to login to docker hub
   
   docker push <dockerhubrepo>/<dockerimagename>:<version>
-
+```
 
 
 Dockerfile Tips
