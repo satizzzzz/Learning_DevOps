@@ -39,3 +39,6 @@ Content-Type: text/html; charset=utf-8
 
 5. Finally, the browser renders the HTML content, and voila! The webpage appears! 🎉
 ```
+![URL_access](https://github.com/satizzzzz/Learning_DevOps/assets/26127571/4469b2ce-1271-46d9-9355-569455b75b7f)
+
+
