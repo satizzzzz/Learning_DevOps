@@ -26,6 +26,7 @@ A typical Helm workflow involves the following steps:
 4️⃣ Kubernetes API server 𝐚𝐩𝐩𝐥𝐢𝐞𝐬 desired resources (deployments, secrets, persistent volume claims, etc.).
 
 ```
+![Helm_wf](https://github.com/satizzzzz/Learning_DevOps/assets/26127571/bf2b5070-cbb4-441c-bde4-48ec88d77f07)
 
 
 
